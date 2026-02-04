@@ -32,16 +32,5 @@ Total Amount: 1100.0
 
 ---
 
-### Step 3: Get Your URL
-Once you have these files prepared:
 
-1.  Log in to **GitHub**.
-2.  Click the **+** icon in the top right and select **New repository**.
-3.  Name it (e.g., `simple-interest-calculator`).
-4.  Upload or push the `calculator.py` and `README.md` files created above.
-5.  Once the files are uploaded, copy the URL from your browser address bar.
 
-**The URL will look like this:**
-`https://github.com/[YourUsername]/simple-interest-calculator`
-
-**Would you like me to guide you through the Git commands to push these files from your terminal?**
